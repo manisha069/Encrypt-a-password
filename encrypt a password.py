@@ -1,4 +1,3 @@
-a='abcdefghijklmnopqrstuvwxyz'
 password=input("enter a password ")
 new_password=""
 for i in password:
